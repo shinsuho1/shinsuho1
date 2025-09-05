@@ -1,26 +1,28 @@
 # 안녕하세요, 신수호입니다 👋
 
-**HTML / CSS / SCSS / JavaScript**를 사용하는 **퍼블리셔 & 웹 개발자**입니다.  
+**HTML / CSS / SCSS / JavaScript**를 사용하는 퍼블리셔 & 웹 개발자입니다.  
 
-- 🏗 2005년생, 웹 퍼블리싱과 인터랙티브 UI 구현에 관심이 많아요.  
-- 💻 HTML, CSS, SCSS, JavaScript를 활용한 **반응형 웹사이트 및 UI/UX 개발** 경험이 있습니다.  
-- 🎨 GSAP, Swiper.js, fullPage.js 등 다양한 라이브러리를 사용하여 **웹 인터랙션과 애니메이션** 구현 가능.  
-- 🚀 빠른 학습과 실험을 즐기며, 항상 최신 웹 기술을 공부하고 적용하는 것을 좋아합니다.
-
----
-
-### 기술 스택
-- **Frontend:** HTML, CSS, SCSS, JavaScript  
-- **라이브러리 / 프레임워크:** GSAP, Swiper.js, fullPage.js, jQuery, Three.js, Curtains.js  
-- **도구:** VSCode, Git/GitHub, Chrome DevTools  
+- 🏗 2005년생, 웹 퍼블리싱과 인터랙티브 UI 개발에 관심이 많아요.  
+- 💻 Swiper.js, GSAP(ScrollTrigger), fullPage.js, Three.js, Curtains.js 등으로 **스크롤/애니메이션 경험** 보유.  
+- 🔧 URL 파라미터 처리, DOM 조작, 슬라이드 커스터마이징 등 **실용적인 프론트엔드 기능 구현** 가능.  
+- 🎨 웹 애니메이션과 3D 모델(.glb/.gltf) 활용, **상호작용 중심 UI 개발**을 즐깁니다.
 
 ---
 
-### 연락
-- 📫 Email: [이메일 주소]  
-- 🌐 Portfolio: [포트폴리오 URL] (있다면)
+### 🛠 기술 스택
+
+**Frontend**  
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/CSS)  
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)  
+
+**Library / Framework**  
+GSAP, ScrollTrigger, Swiper.js, fullPage.js, Three.js, Curtains.js, jQuery  
+
+**Tool**  
+VSCode, Git/GitHub, Chrome DevTools, DBeaver(MySQL)
 
 ---
 
-**“웹을 통해 사람들에게 경험과 감동을 전하는 개발자”**  
-작은 디테일까지 신경 쓰며, 사용자 경험 중심의 UI/UX 구현을 목표로 합니다.
+**“웹을 통해 몰입감 있는 경험을 만드는 개발자”**
