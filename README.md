@@ -17,9 +17,9 @@
 [![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-FF6F61?style=for-the-badge)](https://greensock.com/scrolltrigger/) 
 [![Swiper.js](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/) 
 [![fullPage.js](https://img.shields.io/badge/fullPage.js-4B0082?style=for-the-badge)](https://alvarotrigo.com/fullPage/) 
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) 
-[![Curtains.js](https://img.shields.io/badge/Curtains.js-008080?style=for-the-badge)](https://www.curtainsjs.com/) 
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)  
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Curtains.js](https://img.shields.io/badge/Curtains.js-008080?style=for-the-badge)](https://www.curtainsjs.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
 **Tool**  
 VSCode, Git/GitHub, Chrome DevTools, DBeaver(MySQL)
