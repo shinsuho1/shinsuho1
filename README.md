@@ -9,14 +9,20 @@
 
 ### 🛠 기술 스택
 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/HTML)[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/CSS)[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)  
+**Frontend**  
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/HTML) 
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/CSS) 
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)  
 
 **Library / Framework**  
-GSAP, ScrollTrigger, Swiper.js, fullPage.js, Three.js, Curtains.js, jQuery  
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=gsap&logoColor=white)](https://greensock.com/gsap) 
+[![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-FF6F61?style=for-the-badge)](https://greensock.com/scrolltrigger/) 
+[![Swiper.js](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/) 
+[![fullPage.js](https://img.shields.io/badge/fullPage.js-4B0082?style=for-the-badge)](https://alvarotrigo.com/fullPage/) 
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) 
+[![Curtains.js](https://img.shields.io/badge/Curtains.js-008080?style=for-the-badge)](https://www.curtainsjs.com/) 
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)  
 
 **Tool**  
 VSCode, Git/GitHub, Chrome DevTools, DBeaver(MySQL)
-
----
-
-**“웹을 통해 몰입감 있는 경험을 만드는 개발자”**
